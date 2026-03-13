@@ -1,0 +1,6 @@
+2026-03-13 17:50:37,806 INFO    MainThread:4396 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\Adrian Meier\Documents\GitHub\DEL\wandb\offline-run-20260313_175037-j4jl9o2a\logs\debug.log
+2026-03-13 17:50:37,807 INFO    MainThread:4396 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\Adrian Meier\Documents\GitHub\DEL\wandb\offline-run-20260313_175037-j4jl9o2a\logs\debug-internal.log
+2026-03-13 17:50:37,807 INFO    MainThread:4396 [wandb_init.py:init():844] calling init triggers
+2026-03-13 17:50:37,808 INFO    MainThread:4396 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'lr': 0.01, 'batch_size': 64, '_wandb': {}}
+2026-03-13 17:50:37,808 INFO    MainThread:4396 [wandb_init.py:init():892] starting backend

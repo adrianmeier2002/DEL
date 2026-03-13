@@ -1,0 +1,10 @@
+2026-03-13 16:33:53,864 INFO    MainThread:4396 [wandb_setup.py:_flush():81] Current SDK version is 0.25.1
+2026-03-13 16:33:53,865 INFO    MainThread:4396 [wandb_setup.py:_flush():81] Configure stats pid to 4396
+2026-03-13 16:33:53,865 INFO    MainThread:4396 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-03-13 16:33:53,865 INFO    MainThread:4396 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\Adrian Meier\Documents\GitHub\DEL\wandb\run-20260313_163353-kh3i7vnf\logs\debug.log
+2026-03-13 16:33:53,866 INFO    MainThread:4396 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\Adrian Meier\Documents\GitHub\DEL\wandb\run-20260313_163353-kh3i7vnf\logs\debug-internal.log
+2026-03-13 16:33:53,866 INFO    MainThread:4396 [wandb_init.py:monkeypatch_ipython():636] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F9CE4B0170>
+2026-03-13 16:33:53,866 INFO    MainThread:4396 [wandb_init.py:init():844] calling init triggers
+2026-03-13 16:33:53,866 INFO    MainThread:4396 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'lr': 0.01, 'batch_size': 64, 'optimizer': 'SGD', '_wandb': {}}
+2026-03-13 16:33:53,867 INFO    MainThread:4396 [wandb_init.py:init():892] starting backend
